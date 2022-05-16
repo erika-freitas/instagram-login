@@ -1,4 +1,4 @@
-# Instagram login page's clone
+# Instagram login page clone
 
 This was a guided project from DIO's instructor Gabriela Pinheiro. I've followed her lessons but made a few modifications based on Instragram's page. Specially regarding spacing, margins and color pallete. 
 

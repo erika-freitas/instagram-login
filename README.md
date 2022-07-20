@@ -1,6 +1,6 @@
 # Instagram login page clone
 
-This was a guided project from DIO's instructor Gabriela Pinheiro. I've followed her lessons but made a few modifications based on Instragram's page. Specially regarding spacing, margins and color pallete. 
+This is a guided project by DIO's instructor Gabriela Pinheiro. I've followed her lessons but made a few modifications based on Instragram's page. Specially regarding spacing, margins and color pallete. 
 
 ![gif-responsive](https://j.gifs.com/gpKxYj.gif)
 
